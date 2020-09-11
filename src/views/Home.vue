@@ -65,7 +65,7 @@ export default {
           this.loading = false
         }
       })
-      .catch(error => console.log('get firebase failed! : ', error))
+      .catch(error => console.log('get fsddirebase failed! : ', error))
   }
 }
 </script>
